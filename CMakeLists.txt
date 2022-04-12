@@ -1,10 +1,3 @@
-############################################################################
-# <summary> CMakeLists.txt for OpenCV and CUDA. </summary>
-# <date>    2012-02-07          </date>
-# <author>  Quan Tran Minh. edit by Johannes Kast, Michael Sarahan </author>
-# <email>   quantm@unist.ac.kr  kast.jo@googlemail.com msarahan@gmail.com</email>
-############################################################################
-
 cmake_minimum_required(VERSION 2.6 FATAL_ERROR)
 project(cs344)
 
